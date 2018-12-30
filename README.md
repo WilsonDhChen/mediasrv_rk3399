@@ -10,6 +10,6 @@ Supported protocols:
 2)Output protocol, RTMP RTMPT HLS(Memory file support) RTSP HTTP-FLV(support video/audio only) HTTP-TS HTTP-AAC GB28181 WebRTC UDP-Multicast 
 
 detail goto   
-
+详细功能查看   
 https://github.com/WilsonDhChen/mediasrv_linux/edit/master/README.md
 
